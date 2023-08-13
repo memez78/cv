@@ -1,0 +1,94 @@
+
+.btn{
+
+background-color: rgb(47, 44, 44);
+border: none;
+border-radius:5px;
+height:40px;
+width: 100px;
+color: white;
+font-family:'Times New Roman';
+
+}
+.position{
+
+
+
+text-align: center;
+margin-top:10px;
+margin-bottom: 10px;
+
+}
+.btn:hover{
+
+
+background-color: brown;
+cursor: pointer;
+
+}
+
+body{
+background-color:black ;
+}
+
+.container{
+font-family: 'Times New Roman';
+font-weight: bold;
+color: rgb(255, 255, 255);
+border: solid;
+border-radius:20px;
+text-align: center;
+}
+
+.mycert{
+color:white;
+text-align: center;
+
+}
+
+.firstc {
+
+border-radius: 20px;
+width:350px;
+display: flex;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10px;
+margin-bottom:10px;
+}
+
+.secondc{
+
+    display:flex;
+    width:350px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+.thirdc{
+    
+border-radius: 20px;
+ display:flex;  
+ width:350px;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom:auto;
+
+}
+.cato{
+
+display:flex;
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+margin-bottom:30px;
+border-radius: 100px;
+
+
+
+}
